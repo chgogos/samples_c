@@ -1,0 +1,4 @@
+LINUX
+gcc 7.4.0 compiler
+64bit processor architecture
+7.4.0
