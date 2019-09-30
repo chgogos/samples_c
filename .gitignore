@@ -1,2 +1,6 @@
-*.
+# all files without a dot (start)
+*
+!/**/
+!*.*
+# all files without a dot (end)
 *.exe
