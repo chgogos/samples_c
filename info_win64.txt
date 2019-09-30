@@ -1,0 +1,7 @@
+WIN32
+WIN64 & WIN32
+gcc 8.1.0 compiler
+MINGW 32bit
+MINGW 64bit
+64bit processor architecture
+8.1.0
